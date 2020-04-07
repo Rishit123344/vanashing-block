@@ -1,1 +1,1 @@
-# vanashing-block
+# SlingShot Game
